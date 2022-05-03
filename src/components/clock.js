@@ -1,6 +1,6 @@
 import React,{useState,useRef,useEffect} from 'react';
 import {Typography,Button,Paper,Container,Box} from '@mui/material';
-iimport {root,labelStyle,decrementButton,IncrementButton,startStopButton,resetButton,timeLeftStyle} from './styles.js'
+import {root,labelStyle,decrementButton,IncrementButton,startStopButton,resetButton,timeLeftStyle} from './styles.js'
 
 
 //use a react hook to control the count down of the clock
