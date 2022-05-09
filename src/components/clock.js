@@ -130,7 +130,7 @@ const sessionIncrement=()=>{
 
 return (
   <Container>
-  <Typography variant="h2" style={{fontWeight:'600',color:'darkGrey',textAlign:'center',marginTop:"25vh"}}>🍅 Pomodoro Clock 🍅</Typography>
+  <Typography variant="h3" style={{fontWeight:'600',color:'darkGrey',textAlign:'center',marginTop:"25vh"}}>🍅 Pomodoro Clock 🍅</Typography>
 
   <div id='root' style={root}>
     <div style={{display:'flex',boxSizing: 'border-box',padding:"15px 0",marginTop:"15px"}}>
@@ -177,7 +177,7 @@ return (
       <audio id="beep" src='https://bigsoundbank.com/UPLOAD/mp3/1111.mp3' />
       </Button>
      </div>
-     <Typography style={{textAlign:'center',marginTop:'40vh'}}>© 2022 Pomodoro Clock by <a href="https://github.com/TongW5/Pomodoro-Clock">Tong Wu</a></Typography>
+     <Typography style={{textAlign:'center',marginTop:'40vh'}}>🍅 Pomodoro Clock developed by <a href="https://github.com/TongW5/Pomodoro-Clock" target="_blank" title="Go to Github" style={{textDecoration:'none'}}>Tong Wu</a> 🍅</Typography>
   </div>
   </Container>
 )
