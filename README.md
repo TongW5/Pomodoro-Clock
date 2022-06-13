@@ -1,5 +1,5 @@
 # Pomodoro Clock
-https://pomodoro-clock001/netlify.app
+https://pomodoro-clock001.netlify.app/
 
 A React project helping users to focus and improve efficiency by applying Pomodoro Technique.
 
@@ -12,4 +12,3 @@ to run the project in local environment, please run
 ```
 npm install
 ```
-
